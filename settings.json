@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "soulharvest.joinmc.world:23118",
+    "ip": "soulharvest.joinmc.world",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
